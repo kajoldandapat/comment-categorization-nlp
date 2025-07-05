@@ -94,7 +94,7 @@ comment
 
 ## 🧑‍💻 Author
 
-___Kajol Dalmia___
+___Kajol Dalmia (Dandapat)___
 
 ## 📜 License
 
