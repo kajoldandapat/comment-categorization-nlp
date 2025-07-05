@@ -43,6 +43,13 @@ A Natural Language Processing (NLP) mini project that classifies user comments (
 >
 >── data.csv               #Sample dataset (comment, label)
 
+
+## Google Colab
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]
+(https://colab.research.google.com/github/kajoldandapat/comment-categorization-nlp/blob/main/comment_classifier_colab.ipynb)
+
+
 ## 💻 How to Run Locally
 
 #### 1. Clone the Repo or Unzip Project
